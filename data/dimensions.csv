@@ -1,0 +1,24 @@
+dimension_key,label,theme
+housing_cost,Housing Cost,Home & value
+housing_choice,Housing Choice,Home & value
+daily_services,Daily Services,Everyday life
+healthcare,Healthcare,Everyday life
+digital,Digital,Everyday life
+rail,Rail,Connections
+road,Road,Connections
+airport,Airport,Connections
+family_network,Family Network,Connections
+walking,Walking,Outdoors
+greenspace,Greenspace,Outdoors
+waterside,Waterside,Outdoors
+climate,Climate,Outdoors
+terrain,Terrain,Outdoors
+food,Food,Culture & community
+culture,Culture,Culture & community
+learning,Learning,Culture & community
+community,Community,Culture & community
+heritage,Heritage,Character & future
+independence,Independence,Character & future
+pace,Pace,Character & future
+safety,Safety,Character & future
+future_fit,Future Fit,Character & future

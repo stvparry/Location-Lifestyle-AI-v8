@@ -1,0 +1,201 @@
+name,county_area,region,country,latitude,longitude,population_reference,coordinate_source,coordinate_status,place_id,importance_tier,importance_rank,housing_cost,housing_choice,daily_services,healthcare,digital,rail,road,airport,family_network,walking,greenspace,waterside,climate,terrain,food,culture,learning,community,heritage,independence,pace,safety,future_fit
+Aldeburgh,Suffolk,East of England,United Kingdom,52.1511,1.6011,0,curated town-centre point,checked_core,1,A,1,9,9,9,8,9,4,9,5,9,9,9,7,9,9,6,6,6,4,8,9,6,9,9
+Southwold,Suffolk,East of England,United Kingdom,52.327,1.68,0,curated town-centre point,checked_core,2,A,2,8,4,7,5,9,4,5,9,7,8,4,5,7,6,7,8,6,9,8,4,8,7,9
+Marlow,Buckinghamshire,South East,United Kingdom,51.5693,-0.7742,0,curated town-centre point,checked_core,3,A,3,4,6,9,6,4,9,4,6,4,6,7,6,8,5,6,8,9,5,7,9,9,7,6
+Henley-on-Thames,Oxfordshire,South East,United Kingdom,51.5362,-0.9026,0,curated town-centre point,checked_core,4,A,4,4,9,5,6,5,8,8,8,6,5,9,4,4,6,9,7,8,7,4,5,8,7,9
+Cookham,Berkshire,South East,United Kingdom,51.5607,-0.7081,0,curated town-centre point,checked_core,5,A,5,4,5,7,6,8,5,6,5,6,5,9,8,4,7,5,9,8,5,6,5,5,6,9
+Wallingford,Oxfordshire,South East,United Kingdom,51.599,-1.125,0,curated town-centre point,checked_core,6,A,6,5,4,5,6,9,9,8,8,5,4,8,5,9,5,4,5,5,6,8,7,7,8,4
+Wendover,Buckinghamshire,South East,United Kingdom,51.7614,-0.742,0,curated town-centre point,checked_core,7,A,7,7,6,5,4,7,6,5,4,6,8,6,5,5,8,4,8,9,5,6,6,8,4,4
+Great Missenden,Buckinghamshire,South East,United Kingdom,51.7042,-0.7073,0,curated town-centre point,checked_core,8,A,8,9,5,4,4,5,8,5,4,7,7,9,6,9,9,7,6,5,5,6,4,6,9,7
+Lymington,Hampshire,South East,United Kingdom,50.7581,-1.5419,0,curated town-centre point,checked_core,9,A,9,6,9,5,6,7,9,4,4,9,5,6,6,8,6,7,6,8,5,7,6,7,7,5
+Alresford,Hampshire,South East,United Kingdom,51.0895,-1.1617,0,curated town-centre point,checked_core,10,A,10,5,8,4,7,6,8,7,9,6,8,5,4,4,4,8,7,4,6,7,6,5,6,6
+Stockbridge,Hampshire,South East,United Kingdom,51.1136,-1.4907,0,curated town-centre point,checked_core,11,A,11,9,7,8,4,5,5,7,7,9,7,7,6,6,9,4,4,9,4,9,6,6,6,7
+Petworth,West Sussex,South East,United Kingdom,50.9867,-0.6104,0,curated town-centre point,checked_core,12,A,12,6,8,8,6,4,7,9,8,8,4,7,6,9,5,9,7,5,7,7,7,9,9,8
+Midhurst,West Sussex,South East,United Kingdom,50.9856,-0.7401,0,curated town-centre point,checked_core,13,A,13,9,4,7,6,4,8,8,6,5,7,6,5,7,4,8,7,4,9,8,6,5,6,8
+Rye,East Sussex,South East,United Kingdom,50.9513,0.7337,0,curated town-centre point,checked_core,14,A,14,6,8,9,8,6,7,9,6,9,4,8,5,6,8,6,5,5,5,6,8,4,6,5
+Sherborne,Dorset,South West,United Kingdom,50.9478,-2.517,0,curated town-centre point,checked_core,15,A,15,9,9,9,4,6,5,4,4,7,5,6,9,4,9,4,4,6,5,4,5,5,4,4
+Wells,Somerset,South West,United Kingdom,51.209,-2.647,0,curated town-centre point,checked_core,16,A,16,8,8,4,5,9,7,7,7,9,8,7,5,6,4,6,8,8,7,6,8,5,4,8
+Totnes,Devon,South West,United Kingdom,50.4311,-3.6843,0,curated town-centre point,checked_core,17,A,17,8,4,5,8,5,4,6,7,6,5,7,6,5,7,6,4,7,5,5,4,7,7,7
+Dartmouth,Devon,South West,United Kingdom,50.351,-3.5794,0,curated town-centre point,checked_core,18,A,18,4,7,9,6,8,9,5,8,9,6,7,4,7,4,6,9,7,5,6,5,8,8,5
+Fowey,Cornwall,South West,United Kingdom,50.3366,-4.636,0,curated town-centre point,checked_core,19,A,19,9,4,7,6,4,8,4,7,8,9,6,6,6,8,4,6,9,4,9,8,9,7,7
+Salcombe,Devon,South West,United Kingdom,50.2374,-3.768,0,curated town-centre point,checked_core,20,A,20,7,8,7,4,8,7,5,7,6,8,6,8,8,8,8,6,7,8,7,4,5,5,4
+Stamford,Lincolnshire,Midlands,United Kingdom,52.6511,-0.4805,0,curated town-centre point,checked_core,21,A,21,4,9,9,9,6,4,9,9,4,9,4,8,9,4,6,5,8,6,6,8,5,5,8
+Oakham,Rutland,Midlands,United Kingdom,52.6705,-0.7333,0,curated town-centre point,checked_core,22,A,22,6,8,4,8,9,5,5,9,9,5,7,4,9,7,5,8,8,6,9,5,6,4,5
+Uppingham,Rutland,Midlands,United Kingdom,52.588,-0.722,0,curated town-centre point,checked_core,23,A,23,7,9,9,4,5,8,8,9,7,7,5,5,5,7,4,9,9,8,9,7,9,9,8
+Bakewell,Derbyshire,Midlands,United Kingdom,53.2134,-1.6748,0,curated town-centre point,checked_core,24,A,24,4,9,9,6,5,4,7,5,8,8,7,7,7,4,6,6,4,9,5,5,6,9,6
+Ludlow,Shropshire,Midlands,United Kingdom,52.3677,-2.7139,0,curated town-centre point,checked_core,25,A,25,6,8,5,6,6,5,8,8,8,4,7,5,7,5,5,6,6,5,9,5,8,6,4
+Church Stretton,Shropshire,Midlands,United Kingdom,52.5378,-2.8055,0,curated town-centre point,checked_core,26,A,26,8,8,5,4,7,8,5,7,5,4,4,8,8,8,8,8,9,6,4,8,7,7,5
+Ilkley,West Yorkshire,North,United Kingdom,53.9255,-1.8237,0,curated town-centre point,checked_core,27,A,27,9,7,5,9,5,4,7,7,7,9,9,5,5,7,4,5,6,9,5,6,7,7,5
+Hexham,Northumberland,North,United Kingdom,54.971,-2.1017,0,curated town-centre point,checked_core,28,A,28,6,6,8,6,4,7,8,9,5,5,4,6,5,8,7,9,5,6,7,8,4,6,5
+Keswick,Cumbria,North,United Kingdom,54.601,-3.135,0,curated town-centre point,checked_core,29,A,29,7,5,9,8,5,9,6,4,9,8,4,9,8,7,6,5,7,7,7,9,4,7,5
+Kirkby Lonsdale,Cumbria,North,United Kingdom,54.203,-2.598,0,curated town-centre point,checked_core,30,A,30,5,6,7,6,6,6,6,9,7,4,7,6,4,6,6,6,4,9,5,6,7,7,9
+Cartmel,Cumbria,North,United Kingdom,54.201,-2.953,0,curated town-centre point,checked_core,31,A,31,4,7,5,6,7,7,5,5,7,5,9,5,9,4,4,6,6,7,7,4,8,6,6
+Abergavenny,Monmouthshire,Wales,United Kingdom,51.824,-3.0194,0,curated town-centre point,checked_core,32,A,32,8,7,5,8,9,9,9,5,7,8,8,6,9,7,8,5,8,8,4,5,8,5,5
+Crickhowell,Powys,Wales,United Kingdom,51.859,-3.137,0,curated town-centre point,checked_core,33,A,33,8,5,8,7,5,5,4,7,8,4,8,4,9,8,5,9,5,9,5,4,5,9,6
+Hay-on-Wye,Powys,Wales,United Kingdom,52.074,-3.125,0,curated town-centre point,checked_core,34,A,34,5,9,8,4,8,9,5,7,4,8,9,8,9,6,6,9,4,6,7,7,8,4,4
+Tenby,Pembrokeshire,Wales,United Kingdom,51.6727,-4.7046,0,curated town-centre point,checked_core,35,A,35,6,9,9,7,6,5,8,9,6,5,8,8,6,9,6,5,9,9,6,4,5,5,5
+Conwy,Conwy,Wales,United Kingdom,53.28,-3.828,0,curated town-centre point,checked_core,36,A,36,6,5,9,4,6,6,4,7,4,4,7,9,4,9,8,8,5,8,7,6,5,5,9
+North Berwick,East Lothian,Scotland,United Kingdom,56.058,-2.717,0,curated town-centre point,checked_core,37,A,37,6,9,6,6,7,4,8,7,9,8,4,6,8,7,8,9,9,4,8,6,8,9,9
+St Andrews,Fife,Scotland,United Kingdom,56.3398,-2.7967,0,curated town-centre point,checked_core,38,A,38,9,7,5,7,4,4,7,5,6,6,7,8,7,8,7,4,4,8,9,4,9,7,4
+Pitlochry,Perth and Kinross,Scotland,United Kingdom,56.7054,-3.7347,0,curated town-centre point,checked_core,39,A,39,9,7,7,6,4,4,6,4,9,6,7,9,4,8,8,9,8,7,9,5,7,6,5
+Dunkeld,Perth and Kinross,Scotland,United Kingdom,56.566,-3.586,0,curated town-centre point,checked_core,40,A,40,8,9,9,9,5,5,5,6,9,8,5,4,7,8,9,5,7,4,4,7,7,4,8
+Peebles,Scottish Borders,Scotland,United Kingdom,55.651,-3.188,0,curated town-centre point,checked_core,41,A,41,7,4,6,4,5,7,6,7,5,8,6,6,6,7,8,5,5,7,9,4,5,8,9
+St Albans,England,England,United Kingdom,51.75,-0.33333,84561,GeoNamesCache bundled dataset,source_resolved,42,A,42,9,4,5,9,9,8,8,9,7,8,6,6,6,6,8,6,5,7,5,4,5,7,8
+Winchester,England,England,United Kingdom,51.06513,-1.3187,46074,GeoNamesCache bundled dataset,source_resolved,43,A,43,7,4,4,5,5,7,4,8,5,6,6,6,7,7,5,6,7,6,7,9,7,7,9
+Oxford,England,England,United Kingdom,51.75222,-1.25596,162100,GeoNamesCache bundled dataset,source_resolved,44,A,44,6,8,7,9,5,9,5,8,8,6,4,4,5,4,5,6,8,6,4,9,9,8,5
+Cambridge,England,England,United Kingdom,52.2,0.11667,145674,GeoNamesCache bundled dataset,source_resolved,45,A,45,4,5,7,4,7,7,8,6,8,4,5,9,7,7,6,4,9,4,7,9,5,5,6
+Bath,England,England,United Kingdom,51.3751,-2.36172,101557,GeoNamesCache bundled dataset,source_resolved,46,A,46,6,6,9,7,9,5,4,6,8,9,7,8,5,8,7,7,8,7,8,9,5,6,8
+Canterbury,England,England,United Kingdom,51.27904,1.07992,55087,GeoNamesCache bundled dataset,source_resolved,47,A,47,5,4,6,8,8,8,5,4,7,7,8,7,5,7,9,8,9,6,6,4,8,6,6
+Guildford,England,England,United Kingdom,51.23536,-0.57427,71873,GeoNamesCache bundled dataset,source_resolved,48,A,48,9,6,9,4,7,4,5,7,9,5,8,6,8,8,5,7,8,4,8,5,4,6,7
+Harrogate,England,England,United Kingdom,53.99078,-1.5373,89060,GeoNamesCache bundled dataset,source_resolved,49,A,49,4,7,5,6,7,7,8,5,7,7,7,7,7,9,6,8,4,9,8,8,7,7,9
+York,England,England,United Kingdom,53.95763,-1.08271,156135,GeoNamesCache bundled dataset,source_resolved,50,A,50,9,7,8,8,8,5,9,5,8,4,4,4,8,6,8,6,7,8,8,7,9,9,8
+Edinburgh,Scotland,Scotland,United Kingdom,55.95206,-3.19648,514990,GeoNamesCache bundled dataset,source_resolved,51,A,51,7,5,5,6,4,5,4,8,8,6,8,8,6,8,9,9,6,9,4,5,4,6,6
+Durham,England,England,United Kingdom,54.77676,-1.57566,47785,GeoNamesCache bundled dataset,source_resolved,52,A,52,5,8,4,9,5,5,6,4,4,6,8,6,8,8,8,7,4,8,4,6,8,8,5
+Chester,England,England,United Kingdom,53.1905,-2.89189,90524,GeoNamesCache bundled dataset,source_resolved,53,A,53,5,5,8,8,8,8,7,7,8,6,7,4,5,8,8,7,7,4,8,5,9,7,6
+Salisbury,England,England,United Kingdom,51.06931,-1.79569,44748,GeoNamesCache bundled dataset,source_resolved,54,A,54,8,8,4,6,8,5,9,4,8,9,5,8,7,5,6,8,9,6,8,5,5,7,9
+Chichester,England,England,United Kingdom,50.83673,-0.78003,31654,GeoNamesCache bundled dataset,source_resolved,55,A,55,9,6,6,4,7,4,4,5,9,6,5,9,9,6,7,9,7,4,7,5,6,4,7
+Cheltenham,England,England,United Kingdom,51.90006,-2.07972,118836,GeoNamesCache bundled dataset,source_resolved,56,A,56,9,7,7,9,7,7,4,8,8,7,9,6,6,6,5,9,9,7,8,5,9,4,7
+Stratford-upon-Avon,England,England,United Kingdom,52.19166,-1.70734,30495,GeoNamesCache bundled dataset,source_resolved,57,A,57,5,8,5,7,6,9,9,4,5,7,9,4,8,9,8,8,6,9,7,6,8,8,8
+Shrewsbury,England,England,United Kingdom,52.71009,-2.75208,76782,GeoNamesCache bundled dataset,source_resolved,58,A,58,8,4,5,4,5,4,4,8,7,7,8,7,4,8,9,5,5,4,6,8,8,5,6
+Hereford,England,England,United Kingdom,52.05684,-2.71482,60415,GeoNamesCache bundled dataset,source_resolved,59,A,59,4,4,7,6,5,4,9,8,4,7,7,4,7,6,6,7,8,5,6,5,6,7,9
+Ripon,England,England,United Kingdom,54.13579,-1.52826,16363,GeoNamesCache bundled dataset,source_resolved,60,A,60,5,4,9,8,5,5,5,8,4,6,6,6,5,9,5,8,8,7,9,6,4,9,8
+Beverley,England,England,United Kingdom,53.84587,-0.42332,30587,GeoNamesCache bundled dataset,source_resolved,61,A,61,7,7,5,4,9,4,5,5,4,8,7,8,8,6,4,9,4,7,6,8,4,5,5
+Kendal,England,England,United Kingdom,54.32681,-2.74757,29147,GeoNamesCache bundled dataset,source_resolved,62,A,62,8,5,6,7,6,7,5,4,7,6,6,4,5,6,6,4,6,7,8,5,4,5,6
+Lancaster,England,England,United Kingdom,54.04649,-2.79988,47162,GeoNamesCache bundled dataset,source_resolved,63,A,63,7,4,7,9,7,6,5,6,6,4,7,7,5,7,6,6,4,9,5,7,7,8,5
+Aberystwyth,Wales,Wales,United Kingdom,52.41548,-4.08292,18749,GeoNamesCache bundled dataset,source_resolved,64,A,64,9,6,5,9,4,4,8,8,6,7,8,6,4,6,7,5,5,8,7,8,8,6,6
+Inverness,Scotland,Scotland,United Kingdom,57.47908,-4.22398,47790,GeoNamesCache bundled dataset,source_resolved,65,A,65,9,8,5,9,4,9,5,5,5,9,7,7,6,6,5,4,7,4,9,9,4,5,7
+Newbury,England,England,United Kingdom,51.40148,-1.32471,33065,GeoNamesCache bundled dataset,source_resolved,66,A,66,5,5,7,7,4,7,9,9,8,7,6,9,7,5,7,4,9,9,8,7,8,8,9
+Amersham,England,England,United Kingdom,51.66667,-0.61667,21731,GeoNamesCache bundled dataset,source_resolved,67,A,67,4,5,7,4,4,9,7,4,7,5,8,5,5,5,6,8,6,6,5,6,5,6,9
+Berkhamsted,England,England,United Kingdom,51.7604,-0.56528,21997,GeoNamesCache bundled dataset,source_resolved,68,A,68,7,6,6,7,5,7,4,6,7,6,9,5,9,7,7,8,4,6,5,6,8,4,9
+Harpenden,England,England,United Kingdom,51.81684,-0.35706,30674,GeoNamesCache bundled dataset,source_resolved,69,A,69,4,8,5,6,6,9,5,8,9,6,5,8,5,9,8,5,7,6,4,9,9,8,5
+Hitchin,England,England,United Kingdom,51.94924,-0.28496,35220,GeoNamesCache bundled dataset,source_resolved,70,A,70,8,4,7,9,9,8,6,5,6,5,8,6,9,4,7,8,8,9,8,6,5,5,8
+Hertford,England,England,United Kingdom,51.79588,-0.07854,25847,GeoNamesCache bundled dataset,source_resolved,71,A,71,8,4,7,8,4,7,7,8,6,5,4,9,5,7,5,7,6,9,5,8,9,6,7
+Farnham,England,England,United Kingdom,51.21444,-0.80054,36971,GeoNamesCache bundled dataset,source_resolved,72,A,72,4,5,9,6,6,9,7,4,8,8,6,8,4,8,9,9,7,6,9,5,4,8,6
+Godalming,England,England,United Kingdom,51.1858,-0.61489,22689,GeoNamesCache bundled dataset,source_resolved,73,A,73,6,9,7,5,9,4,9,7,5,6,7,8,4,7,8,7,7,9,9,7,6,6,7
+Haslemere,England,England,United Kingdom,51.09015,-0.70785,17279,GeoNamesCache bundled dataset,source_resolved,74,A,74,7,9,6,9,7,7,8,5,4,4,4,4,7,9,7,7,9,7,5,5,7,5,8
+Reigate,England,England,United Kingdom,51.23736,-0.20582,21820,GeoNamesCache bundled dataset,source_resolved,75,A,75,7,4,6,5,7,4,9,6,7,8,6,7,5,9,7,7,4,7,8,6,5,7,6
+Dorking,England,England,United Kingdom,51.23228,-0.3338,17747,GeoNamesCache bundled dataset,source_resolved,76,A,76,6,6,7,6,5,4,6,7,7,9,7,9,4,7,4,4,8,7,5,4,5,8,4
+Lewes,England,England,United Kingdom,50.87398,0.0088,17297,GeoNamesCache bundled dataset,source_resolved,77,A,77,4,9,9,4,4,4,6,6,8,7,5,6,4,4,8,5,4,4,9,4,6,9,7
+Sevenoaks,England,England,United Kingdom,51.27266,0.18883,29506,GeoNamesCache bundled dataset,source_resolved,78,A,78,8,8,6,5,9,9,4,6,4,4,5,4,5,9,6,4,7,7,8,6,9,8,6
+Whitstable,England,England,United Kingdom,51.3607,1.0257,32196,GeoNamesCache bundled dataset,source_resolved,79,A,79,8,7,6,5,5,9,7,4,5,6,7,8,7,8,9,8,6,5,9,6,8,5,7
+Deal,England,England,United Kingdom,51.22316,1.4028,30917,GeoNamesCache bundled dataset,source_resolved,80,A,80,5,9,9,6,5,8,9,5,9,4,4,9,8,8,9,6,5,7,4,7,7,8,8
+Broadstairs,England,England,United Kingdom,51.35845,1.44185,23283,GeoNamesCache bundled dataset,source_resolved,81,A,81,5,9,8,7,6,8,4,9,4,7,8,4,8,5,7,4,4,8,8,4,5,8,7
+Frome,England,England,United Kingdom,51.22834,-2.32211,26203,GeoNamesCache bundled dataset,source_resolved,82,A,82,4,5,7,5,6,5,4,7,8,7,7,8,8,5,8,8,7,9,4,8,4,9,9
+Dorchester,England,England,United Kingdom,50.71667,-2.43333,16879,GeoNamesCache bundled dataset,source_resolved,83,A,83,4,8,6,4,8,8,7,9,6,4,9,9,7,9,9,4,8,6,7,5,7,8,9
+Cirencester,England,England,United Kingdom,51.71927,-1.97145,20229,GeoNamesCache bundled dataset,source_resolved,84,A,84,4,8,5,9,9,6,9,7,7,6,4,5,6,5,8,9,5,4,4,7,6,8,8
+Stroud,England,England,United Kingdom,51.75,-2.2,60155,GeoNamesCache bundled dataset,source_resolved,85,A,85,8,6,9,8,4,8,7,6,6,6,7,7,5,6,5,7,5,4,5,8,5,9,4
+Falmouth,England,England,United Kingdom,50.15441,-5.07113,31988,GeoNamesCache bundled dataset,source_resolved,86,A,86,6,6,6,5,6,5,7,5,6,6,6,4,5,5,8,8,5,7,5,5,6,8,7
+Truro,England,England,United Kingdom,50.26526,-5.05436,23041,GeoNamesCache bundled dataset,source_resolved,87,A,87,4,8,6,4,6,6,4,4,7,4,8,7,7,5,9,4,6,6,8,9,9,8,7
+Penzance,England,England,United Kingdom,50.11861,-5.53715,19872,GeoNamesCache bundled dataset,source_resolved,88,A,88,7,4,8,4,5,5,5,4,5,8,5,8,9,5,8,6,4,4,9,7,7,9,4
+Ely,England,England,United Kingdom,52.39964,0.26196,20574,GeoNamesCache bundled dataset,source_resolved,89,A,89,9,8,4,5,7,7,7,6,7,5,7,8,5,5,5,8,9,7,7,4,7,7,6
+Bury St Edmunds,England,England,United Kingdom,52.2463,0.71111,41280,GeoNamesCache bundled dataset,source_resolved,90,A,90,6,7,6,4,8,4,5,7,9,6,6,5,8,4,8,6,8,8,5,9,8,8,9
+Norwich,England,England,United Kingdom,52.62783,1.29834,143135,GeoNamesCache bundled dataset,source_resolved,91,A,91,4,7,9,5,5,7,6,6,4,6,4,5,8,6,4,6,5,5,8,6,5,6,4
+Lincoln,England,England,United Kingdom,53.22683,-0.53792,103813,GeoNamesCache bundled dataset,source_resolved,92,A,92,6,7,6,9,4,4,6,4,8,8,9,9,7,5,5,4,4,4,7,5,6,4,8
+Buxton,England,England,United Kingdom,53.25741,-1.90982,20048,GeoNamesCache bundled dataset,source_resolved,93,A,93,7,9,7,4,8,5,9,8,5,8,4,4,4,5,5,5,8,9,5,5,5,8,8
+Warwick,England,England,United Kingdom,52.28333,-1.58333,37267,GeoNamesCache bundled dataset,source_resolved,94,A,94,9,7,6,7,4,5,4,5,9,6,7,9,7,8,8,5,4,6,7,5,6,4,5
+Richmond,England,England,United Kingdom,51.46171,-0.30633,21469,GeoNamesCache bundled dataset,source_resolved,95,A,95,7,5,7,7,4,8,6,5,5,4,8,8,5,5,6,9,4,9,6,5,8,5,6
+Tynemouth,England,England,United Kingdom,55.01788,-1.42559,60605,GeoNamesCache bundled dataset,source_resolved,96,A,96,6,4,6,7,9,9,7,4,5,8,4,8,9,5,5,8,7,6,9,9,8,7,7
+Altrincham,England,England,United Kingdom,53.38752,-2.34848,49680,GeoNamesCache bundled dataset,source_resolved,97,A,97,8,5,6,9,4,5,9,7,6,5,8,8,7,8,5,4,9,9,4,9,6,7,6
+Penarth,Wales,Wales,United Kingdom,51.4386,-3.17342,23437,GeoNamesCache bundled dataset,source_resolved,98,A,98,8,8,5,6,8,6,4,9,7,7,5,5,5,4,4,7,8,4,7,6,4,5,4
+Ipswich,England,England,United Kingdom,52.05917,1.15545,178835,GeoNamesCache bundled dataset,source_resolved,99,A,99,9,5,6,9,7,4,8,7,5,4,8,4,5,8,6,8,8,6,5,7,8,8,7
+Wigan,England,England,United Kingdom,53.54296,-2.63706,175405,GeoNamesCache bundled dataset,source_resolved,100,A,100,8,8,5,9,7,6,7,8,5,9,7,6,4,7,5,5,4,7,7,9,7,6,8
+Croydon,England,England,United Kingdom,51.38333,-0.1,173314,GeoNamesCache bundled dataset,source_resolved,101,B,101,6,7,4,5,8,7,7,7,8,5,6,4,7,6,9,4,4,9,8,4,4,6,8
+Warrington,England,England,United Kingdom,53.39254,-2.58024,172330,GeoNamesCache bundled dataset,source_resolved,102,B,102,6,6,7,5,5,5,8,5,4,6,7,8,6,9,4,7,6,8,6,9,9,5,8
+Walsall,England,England,United Kingdom,52.58528,-1.98396,172141,GeoNamesCache bundled dataset,source_resolved,103,B,103,7,9,8,6,7,8,6,9,9,4,8,7,4,4,8,6,6,6,9,5,4,6,9
+Mansfield,England,England,United Kingdom,53.13333,-1.2,171958,GeoNamesCache bundled dataset,source_resolved,104,B,104,6,7,6,5,6,5,5,6,6,8,7,9,7,8,9,6,5,4,5,8,9,7,6
+Sunderland,England,England,United Kingdom,54.90465,-1.38222,170134,GeoNamesCache bundled dataset,source_resolved,105,B,105,7,5,8,7,5,6,5,8,4,6,4,6,7,4,4,5,7,7,4,6,7,7,9
+Ilford,England,England,United Kingdom,51.55765,0.07278,168168,GeoNamesCache bundled dataset,source_resolved,106,B,106,8,7,9,8,6,8,6,6,8,5,6,7,7,8,5,6,7,5,5,5,9,6,5
+Slough,England,England,United Kingdom,51.50949,-0.59541,164793,GeoNamesCache bundled dataset,source_resolved,107,B,107,4,4,8,5,4,6,4,6,6,4,5,8,4,5,5,9,8,4,6,6,8,4,8
+Bournemouth,England,England,United Kingdom,50.72048,-1.8795,163600,GeoNamesCache bundled dataset,source_resolved,108,B,108,9,7,6,7,7,7,5,6,8,4,7,8,4,9,5,9,8,6,9,4,5,7,4
+Peterborough,England,England,United Kingdom,52.57364,-0.24777,163379,GeoNamesCache bundled dataset,source_resolved,109,B,109,8,9,9,8,4,4,6,7,7,4,7,4,8,8,4,5,7,5,7,8,9,5,8
+Newport,Wales,Wales,United Kingdom,51.58774,-2.99835,161506,GeoNamesCache bundled dataset,source_resolved,110,B,110,4,6,8,8,9,4,7,6,7,9,9,5,8,5,5,5,6,8,8,4,6,8,9
+Enfield Town,England,England,United Kingdom,51.65147,-0.08497,156858,GeoNamesCache bundled dataset,source_resolved,111,B,111,9,4,7,4,5,4,5,9,5,9,5,6,6,9,8,8,5,6,5,7,8,4,5
+Telford,England,England,United Kingdom,52.67659,-2.44926,155570,GeoNamesCache bundled dataset,source_resolved,112,B,112,6,4,8,5,6,9,8,4,8,6,9,8,9,7,8,9,9,6,6,8,4,4,5
+Poole,England,England,United Kingdom,50.71429,-1.98458,151500,GeoNamesCache bundled dataset,source_resolved,113,B,113,8,8,5,4,7,5,8,9,6,8,4,8,6,9,7,5,8,8,8,9,4,6,8
+Burnley,England,England,United Kingdom,53.8,-2.23333,149422,GeoNamesCache bundled dataset,source_resolved,114,B,114,8,6,6,6,7,8,4,7,5,6,9,6,9,8,4,7,4,4,7,9,8,8,7
+Harrow,England,England,United Kingdom,51.57835,-0.33208,149246,GeoNamesCache bundled dataset,source_resolved,115,B,115,9,8,4,8,4,4,9,5,6,7,8,7,9,6,7,9,4,9,9,8,4,8,8
+Huddersfield,England,England,United Kingdom,53.64904,-1.78416,149017,GeoNamesCache bundled dataset,source_resolved,116,B,116,8,4,7,8,4,6,6,5,7,5,8,5,7,6,8,9,5,4,5,8,9,8,9
+Dundee,Scotland,Scotland,United Kingdom,56.46913,-2.97489,148210,GeoNamesCache bundled dataset,source_resolved,117,B,117,4,4,8,9,9,7,4,8,8,8,7,8,7,5,8,9,7,4,8,6,5,8,4
+Blackburn,England,England,United Kingdom,53.75,-2.48333,146521,GeoNamesCache bundled dataset,source_resolved,118,B,118,5,4,7,8,8,6,6,8,9,5,4,4,8,8,8,4,7,9,7,6,5,4,4
+Blackpool,England,England,United Kingdom,53.81667,-3.05,145007,GeoNamesCache bundled dataset,source_resolved,119,B,119,8,8,9,9,6,9,7,4,7,9,6,4,5,4,5,6,6,8,6,7,6,4,5
+Basildon,England,England,United Kingdom,51.56844,0.45782,144859,GeoNamesCache bundled dataset,source_resolved,120,B,120,6,4,4,6,6,9,6,9,7,6,9,8,6,4,9,6,6,7,6,8,8,6,4
+Middlesbrough,England,England,United Kingdom,54.57623,-1.23483,142707,GeoNamesCache bundled dataset,source_resolved,121,B,121,5,7,6,8,4,9,5,4,9,4,6,4,6,6,4,6,5,6,6,7,8,6,5
+Bolton,England,England,United Kingdom,53.58333,-2.43333,141331,GeoNamesCache bundled dataset,source_resolved,122,B,122,4,6,6,9,6,7,7,8,4,4,8,5,4,4,8,4,4,4,4,8,8,7,9
+Stockport,England,England,United Kingdom,53.40979,-2.15761,139052,GeoNamesCache bundled dataset,source_resolved,123,B,123,6,7,5,9,6,8,9,6,8,6,9,9,5,6,7,9,7,6,8,4,5,8,8
+High Wycombe,England,England,United Kingdom,51.62907,-0.74934,133204,GeoNamesCache bundled dataset,source_resolved,124,B,124,9,7,8,9,4,7,6,7,4,6,5,9,9,9,7,6,5,8,8,5,7,4,6
+Gloucester,England,England,United Kingdom,51.86568,-2.2431,132416,GeoNamesCache bundled dataset,source_resolved,125,B,125,8,7,6,4,4,7,5,4,9,6,8,8,4,8,4,5,4,9,8,9,4,7,9
+Exeter,England,England,United Kingdom,50.7236,-3.52751,130709,GeoNamesCache bundled dataset,source_resolved,126,B,126,4,5,8,9,8,7,4,8,5,7,5,7,6,8,8,8,8,9,6,9,8,4,4
+Colchester,England,England,United Kingdom,51.88921,0.90421,130245,GeoNamesCache bundled dataset,source_resolved,127,B,127,4,7,7,8,4,4,6,4,7,9,8,9,6,8,5,6,9,6,8,5,6,6,6
+Tottenham,England,England,United Kingdom,51.60373,-0.06794,130000,GeoNamesCache bundled dataset,source_resolved,128,B,128,8,4,9,8,8,4,9,8,7,6,4,9,5,6,6,9,4,7,7,6,9,6,7
+Salford,England,England,United Kingdom,53.48771,-2.29042,129794,GeoNamesCache bundled dataset,source_resolved,129,B,129,7,4,5,4,5,7,8,8,5,9,6,8,7,9,4,7,8,6,7,5,4,5,8
+Newcastle under Lyme,England,England,United Kingdom,53.0,-2.23333,127727,GeoNamesCache bundled dataset,source_resolved,130,B,130,7,8,7,8,7,9,9,7,9,6,8,4,9,4,6,9,7,4,8,6,7,8,9
+Solihull,England,England,United Kingdom,52.41426,-1.78094,126577,GeoNamesCache bundled dataset,source_resolved,131,B,131,7,5,5,8,5,5,4,6,6,4,6,6,7,9,7,8,6,8,6,8,6,5,5
+Watford,England,England,United Kingdom,51.65531,-0.39602,125707,GeoNamesCache bundled dataset,source_resolved,132,B,132,9,5,5,8,5,4,6,5,7,8,8,9,4,4,9,5,8,9,9,4,8,9,6
+Saint Peters,England,England,United Kingdom,51.36667,1.41667,125370,GeoNamesCache bundled dataset,source_resolved,133,B,133,8,9,7,5,8,9,6,5,8,8,4,7,5,8,4,4,6,5,9,8,7,5,8
+Crawley,England,England,United Kingdom,51.11303,-0.18312,124008,GeoNamesCache bundled dataset,source_resolved,134,B,134,7,8,4,8,5,8,6,5,6,6,5,7,8,4,9,4,4,4,7,8,8,8,9
+Burton upon Trent,England,England,United Kingdom,52.80728,-1.64263,122199,GeoNamesCache bundled dataset,source_resolved,135,B,135,5,4,9,7,6,8,4,6,9,7,5,8,8,6,8,7,8,9,9,7,5,4,7
+Rotherham,England,England,United Kingdom,53.43012,-1.35678,117618,GeoNamesCache bundled dataset,source_resolved,136,B,136,6,4,4,7,5,5,7,8,8,9,4,7,9,9,7,9,9,5,4,6,6,4,4
+Worthing,England,England,United Kingdom,50.81795,-0.37538,113866,GeoNamesCache bundled dataset,source_resolved,137,B,137,9,4,4,6,8,9,4,7,9,8,6,8,6,7,8,8,5,7,9,5,8,7,4
+Doncaster,England,England,United Kingdom,53.52285,-1.13116,113566,GeoNamesCache bundled dataset,source_resolved,138,B,138,7,5,5,7,4,6,5,7,9,8,6,8,5,7,6,8,5,7,7,6,6,8,4
+Chesterfield,England,England,United Kingdom,53.25,-1.41667,113057,GeoNamesCache bundled dataset,source_resolved,139,B,139,5,5,7,4,5,4,7,4,9,7,9,9,7,4,9,6,9,7,9,4,7,6,6
+Chelmsford,England,England,United Kingdom,51.73575,0.46958,111511,GeoNamesCache bundled dataset,source_resolved,140,B,140,9,9,7,6,9,9,9,4,4,6,8,8,5,6,5,8,6,7,5,5,7,5,7
+Mendip,England,England,United Kingdom,51.2372,-2.6266,110000,GeoNamesCache bundled dataset,source_resolved,141,B,141,5,7,7,9,6,9,8,5,7,5,9,4,6,9,9,9,9,9,6,9,6,9,8
+Sutton Coldfield,England,England,United Kingdom,52.56667,-1.81667,109899,GeoNamesCache bundled dataset,source_resolved,142,B,142,5,7,5,4,5,8,5,4,5,9,8,9,8,7,6,7,4,4,7,7,4,9,8
+Wakefield,England,England,United Kingdom,53.68331,-1.49768,109766,GeoNamesCache bundled dataset,source_resolved,143,B,143,4,8,9,8,9,5,8,5,8,8,4,8,7,6,6,9,4,4,6,5,7,5,8
+Walthamstow,England,England,United Kingdom,51.59067,-0.02077,109424,GeoNamesCache bundled dataset,source_resolved,144,B,144,9,6,9,8,7,9,7,7,6,5,4,9,7,4,8,8,8,7,6,5,9,5,6
+Dagenham,England,England,United Kingdom,51.55,0.16667,108368,GeoNamesCache bundled dataset,source_resolved,145,B,145,8,6,7,9,4,9,7,5,9,5,5,5,5,8,9,7,5,7,4,7,6,9,4
+Basingstoke,England,England,United Kingdom,51.26249,-1.08708,107642,GeoNamesCache bundled dataset,source_resolved,146,B,146,8,8,9,5,9,9,8,8,9,8,6,8,5,7,5,7,7,6,8,7,5,9,9
+Maidstone,England,England,United Kingdom,51.26667,0.51667,107627,GeoNamesCache bundled dataset,source_resolved,147,B,147,9,7,8,8,6,9,9,6,4,4,7,7,9,8,9,5,5,7,5,6,8,6,4
+Bedford,England,England,United Kingdom,52.13459,-0.46632,106940,GeoNamesCache bundled dataset,source_resolved,148,B,148,8,6,4,5,5,4,4,4,7,4,6,6,5,5,9,5,7,4,7,4,5,4,8
+Woking,England,England,United Kingdom,51.31903,-0.55893,103900,GeoNamesCache bundled dataset,source_resolved,149,B,149,4,9,9,4,8,6,9,9,9,6,8,7,4,4,5,8,8,7,6,6,7,6,6
+West Bromwich,England,England,United Kingdom,52.51868,-1.9945,103112,GeoNamesCache bundled dataset,source_resolved,150,B,150,8,5,7,5,7,7,4,8,5,5,5,8,9,8,8,5,6,4,9,8,5,6,9
+Eastbourne,England,England,United Kingdom,50.76871,0.28453,101689,GeoNamesCache bundled dataset,source_resolved,151,B,151,7,7,7,9,6,6,5,8,9,8,7,9,5,7,6,7,9,9,4,6,6,9,6
+Worcester,England,England,United Kingdom,52.18935,-2.22001,101659,GeoNamesCache bundled dataset,source_resolved,152,B,152,5,7,6,9,7,8,9,8,5,4,8,4,5,4,9,6,9,4,8,6,8,6,7
+Gillingham,England,England,United Kingdom,51.38914,0.54863,101187,GeoNamesCache bundled dataset,source_resolved,153,B,153,7,7,7,6,9,4,8,5,4,9,5,6,7,5,9,6,8,6,8,7,8,9,4
+Becontree,England,England,United Kingdom,51.5529,0.129,100000,GeoNamesCache bundled dataset,source_resolved,154,B,154,8,5,8,4,5,6,7,8,4,8,6,7,9,9,6,5,5,7,8,7,8,4,7
+Rochdale,England,England,United Kingdom,53.61766,-2.1552,97550,GeoNamesCache bundled dataset,source_resolved,155,B,155,7,8,7,8,5,7,9,7,5,5,9,5,5,6,8,9,7,8,8,8,9,9,7
+Hemel Hempstead,England,England,United Kingdom,51.75368,-0.44975,95961,GeoNamesCache bundled dataset,source_resolved,156,B,156,5,7,9,7,4,7,7,7,8,6,9,4,5,8,4,5,8,8,9,9,4,8,7
+Romford,England,England,United Kingdom,51.57515,0.18582,95000,GeoNamesCache bundled dataset,source_resolved,157,B,157,6,9,5,7,4,7,5,5,7,7,4,7,6,8,8,4,7,9,5,4,6,7,9
+Hayes,England,England,United Kingdom,51.51579,-0.4234,93928,GeoNamesCache bundled dataset,source_resolved,158,B,158,9,5,5,9,8,5,9,4,4,9,9,5,6,8,6,8,9,7,5,4,7,6,4
+Harlow,England,England,United Kingdom,51.77655,0.11158,93300,GeoNamesCache bundled dataset,source_resolved,159,B,159,5,4,8,4,9,4,5,4,9,8,6,8,9,5,6,4,8,6,8,6,8,5,6
+Hastings,England,England,United Kingdom,50.85568,0.58009,92855,GeoNamesCache bundled dataset,source_resolved,160,B,160,4,6,4,9,9,5,9,7,7,8,9,8,9,8,7,7,4,4,9,7,7,8,4
+High Peak,England,England,United Kingdom,53.36797,-1.84536,92666,GeoNamesCache bundled dataset,source_resolved,161,B,161,6,8,8,5,4,9,4,8,8,8,8,5,4,5,6,7,5,8,6,5,8,5,6
+Darlington,England,England,United Kingdom,54.52429,-1.55039,92363,GeoNamesCache bundled dataset,source_resolved,162,B,162,4,7,5,4,6,6,9,4,4,9,4,9,5,5,7,8,9,6,8,6,7,7,8
+Stevenage,England,England,United Kingdom,51.90224,-0.20256,91774,GeoNamesCache bundled dataset,source_resolved,163,B,163,6,5,6,9,9,7,6,4,6,9,4,7,5,8,9,9,6,6,9,7,4,7,9
+Southport,England,England,United Kingdom,53.64581,-3.01008,91703,GeoNamesCache bundled dataset,source_resolved,164,B,164,6,8,9,5,6,5,4,6,7,7,8,7,9,6,6,4,7,8,8,4,5,5,9
+Wembley,England,England,United Kingdom,51.55242,-0.29686,90045,GeoNamesCache bundled dataset,source_resolved,165,B,165,6,4,8,6,6,7,4,7,5,8,6,4,4,8,8,7,7,6,5,7,6,4,4
+Grays,England,England,United Kingdom,51.47566,0.32521,89755,GeoNamesCache bundled dataset,source_resolved,166,B,166,5,5,9,9,7,9,6,6,5,9,5,6,4,4,4,5,7,5,9,5,8,5,6
+Hartlepool,England,England,United Kingdom,54.68554,-1.21028,88855,GeoNamesCache bundled dataset,source_resolved,167,B,167,9,7,8,4,9,4,8,8,9,4,7,9,4,8,5,4,5,8,6,6,8,5,7
+Nuneaton,England,England,United Kingdom,52.52323,-1.46523,88813,GeoNamesCache bundled dataset,source_resolved,168,B,168,6,7,6,6,6,8,8,4,8,8,7,4,9,8,6,7,8,7,4,4,5,9,9
+Redditch,England,England,United Kingdom,52.3065,-1.94569,87847,GeoNamesCache bundled dataset,source_resolved,169,B,169,8,6,7,7,5,8,9,9,5,4,5,6,6,7,5,5,4,6,8,9,7,7,6
+Fulham,England,England,United Kingdom,51.48026,-0.1993,87161,GeoNamesCache bundled dataset,source_resolved,170,B,170,5,9,7,9,9,8,9,6,4,4,6,7,7,7,5,6,7,4,5,4,4,5,6
+Londonderry County Borough,Northern Ireland,Northern Ireland,United Kingdom,54.99721,-7.30917,87153,GeoNamesCache bundled dataset,source_resolved,171,B,171,4,7,7,9,9,7,5,8,8,4,9,6,9,5,4,5,6,7,5,8,7,8,5
+Grimsby,England,England,United Kingdom,53.56539,-0.07553,86138,GeoNamesCache bundled dataset,source_resolved,172,B,172,4,8,6,4,6,9,7,5,8,4,8,9,8,6,6,8,7,9,5,9,9,5,5
+Cannock,England,England,United Kingdom,52.69045,-2.03085,86121,GeoNamesCache bundled dataset,source_resolved,173,B,173,9,4,4,5,4,5,6,5,6,7,6,9,7,5,7,8,5,8,4,4,8,6,9
+South Shields,England,England,United Kingdom,54.99859,-1.4323,83655,GeoNamesCache bundled dataset,source_resolved,174,B,174,9,4,5,7,6,8,6,7,4,9,7,4,6,6,5,7,9,8,7,9,7,9,6
+Derry,Northern Ireland,Northern Ireland,United Kingdom,54.9981,-7.30934,83652,GeoNamesCache bundled dataset,source_resolved,175,B,175,7,4,6,5,9,8,4,9,4,9,8,8,4,5,7,5,8,7,9,9,7,4,8
+Weston-super-Mare,England,England,United Kingdom,51.34603,-2.97665,82903,GeoNamesCache bundled dataset,source_resolved,176,B,176,5,8,4,6,4,9,5,9,8,5,5,9,9,4,4,7,7,9,9,9,5,8,4
+Halifax,England,England,United Kingdom,53.71667,-1.85,82624,GeoNamesCache bundled dataset,source_resolved,177,B,177,6,9,8,7,8,6,7,6,6,9,7,6,9,6,7,8,9,7,8,4,8,7,4
+Edmonton,England,England,United Kingdom,51.62561,-0.05798,82000,GeoNamesCache bundled dataset,source_resolved,178,B,178,8,9,8,7,6,4,7,7,5,7,7,6,7,8,9,4,8,6,8,9,5,4,8
+Tamworth,England,England,United Kingdom,52.63399,-1.69587,81964,GeoNamesCache bundled dataset,source_resolved,179,B,179,4,4,6,5,8,4,9,9,6,5,7,9,9,4,8,4,6,4,7,7,4,6,5
+Gosport,England,England,United Kingdom,50.79509,-1.12902,81952,GeoNamesCache bundled dataset,source_resolved,180,B,180,6,6,9,4,8,9,7,8,6,6,5,8,8,7,9,8,5,8,7,8,4,7,8
+Scunthorpe,England,England,United Kingdom,53.57905,-0.65437,81576,GeoNamesCache bundled dataset,source_resolved,181,B,181,6,8,6,4,8,9,9,4,4,8,6,6,4,9,4,9,9,6,9,8,9,4,4
+Chatham,England,England,United Kingdom,51.37891,0.52786,80596,GeoNamesCache bundled dataset,source_resolved,182,B,182,9,4,8,8,4,5,6,8,7,4,9,6,6,5,5,9,7,8,7,7,5,6,7
+Stockton-on-Tees,England,England,United Kingdom,54.56848,-1.3187,79957,GeoNamesCache bundled dataset,source_resolved,183,B,183,6,9,9,6,4,9,8,6,7,5,8,7,5,4,4,5,7,4,8,6,6,5,6
+Carlisle,England,England,United Kingdom,54.8951,-2.9382,78470,GeoNamesCache bundled dataset,source_resolved,184,B,184,9,9,7,6,7,8,7,7,9,4,6,5,7,6,7,9,8,6,7,5,5,4,6
+Southall,England,England,United Kingdom,51.50896,-0.3713,78253,GeoNamesCache bundled dataset,source_resolved,185,B,185,7,5,7,4,4,7,5,7,7,9,8,7,7,4,6,7,6,5,5,6,4,9,4
+Rugby,England,England,United Kingdom,52.37092,-1.26417,78117,GeoNamesCache bundled dataset,source_resolved,186,B,186,6,5,6,8,9,5,5,7,7,8,7,6,4,4,8,5,9,7,8,6,4,5,6
+Gateshead,England,England,United Kingdom,54.96209,-1.60168,77649,GeoNamesCache bundled dataset,source_resolved,187,B,187,5,4,6,5,6,9,9,5,4,4,8,8,4,4,9,6,7,4,7,8,4,4,9
+Lisburn,Northern Ireland,Northern Ireland,United Kingdom,54.52337,-6.03527,77506,GeoNamesCache bundled dataset,source_resolved,188,B,188,8,4,6,7,7,6,4,5,8,9,7,9,8,6,4,8,5,5,9,8,4,7,9
+Paisley,Scotland,Scotland,United Kingdom,55.83173,-4.43254,77270,GeoNamesCache bundled dataset,source_resolved,189,B,189,4,6,7,8,6,5,6,6,6,5,9,9,7,7,4,5,6,6,6,9,8,4,8
+Putney,England,England,United Kingdom,51.46072,-0.21814,77140,GeoNamesCache bundled dataset,source_resolved,190,B,190,8,4,8,4,7,6,8,4,4,9,5,4,7,6,7,4,7,9,5,9,7,7,7
+Fylde,England,England,United Kingdom,53.83333,-2.91667,76500,GeoNamesCache bundled dataset,source_resolved,191,B,191,6,9,5,4,5,6,8,9,5,6,6,9,8,9,7,8,6,9,6,7,7,5,7
+Crewe,England,England,United Kingdom,53.09787,-2.44161,76437,GeoNamesCache bundled dataset,source_resolved,192,B,192,6,9,5,9,5,6,9,4,7,6,5,4,8,7,7,7,5,5,8,9,6,8,8
+Bracknell,England,England,United Kingdom,51.41363,-0.75054,76103,GeoNamesCache bundled dataset,source_resolved,193,B,193,5,9,8,7,6,7,8,4,8,7,4,4,5,5,9,8,5,9,6,8,7,9,4
+Battersea,England,England,United Kingdom,51.47475,-0.15547,75651,GeoNamesCache bundled dataset,source_resolved,194,B,194,5,6,6,4,6,7,5,8,4,6,7,4,8,8,4,4,7,4,8,7,5,7,9
+East Kilbride,Scotland,Scotland,United Kingdom,55.76412,-4.17669,75310,GeoNamesCache bundled dataset,source_resolved,195,B,195,5,9,9,7,7,6,9,6,5,4,5,5,6,9,8,9,4,6,8,8,5,6,4
+Hove,England,England,United Kingdom,50.83088,-0.1672,75174,GeoNamesCache bundled dataset,source_resolved,196,B,196,6,6,6,5,5,8,8,6,4,7,8,6,7,9,8,5,5,7,7,4,6,4,9
+Aylesbury,England,England,United Kingdom,51.81665,-0.81458,74748,GeoNamesCache bundled dataset,source_resolved,197,B,197,7,7,5,6,6,7,8,4,6,5,5,9,7,5,6,5,4,6,6,6,9,8,4
+Canary Wharf,England,England,United Kingdom,51.50519,-0.02085,73390,GeoNamesCache bundled dataset,source_resolved,198,B,198,9,9,6,7,9,4,6,8,9,9,9,8,4,4,4,7,8,4,4,6,6,4,7
+Purley,England,England,United Kingdom,51.33678,-0.11201,72000,GeoNamesCache bundled dataset,source_resolved,199,B,199,8,7,9,7,6,6,5,7,4,7,6,9,6,5,6,9,9,6,4,8,6,7,7
+Peckham,England,England,United Kingdom,51.47403,-0.06969,71552,GeoNamesCache bundled dataset,source_resolved,200,B,200,8,6,9,5,4,9,5,6,8,7,7,9,6,5,8,6,5,9,7,8,7,4,4

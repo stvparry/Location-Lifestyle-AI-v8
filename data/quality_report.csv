@@ -1,0 +1,8 @@
+check_name,passed,detail
+exact_count,True,200
+unique_names,True,200
+all_coordinates,True,200
+valid_uk_envelope,True,200
+Aldeburgh,True,east coast
+St Albans,True,present
+no_dummy,True,0
